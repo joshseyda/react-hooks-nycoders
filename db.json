@@ -1,14 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "email": "Sincere@april.biz",
-      "phone": "1-770-736-8031 x56442",
-      "website": "hildegard.org"
-    },
-    {
       "id": 2,
       "name": "Ervin Howell",
       "username": "Antonette",
@@ -55,6 +47,12 @@
       "username": "Cesar coder",
       "email": "Cesarcoder@gmail.com",
       "id": 16
+    },
+    {
+      "name": "josh",
+      "username": "turnstile_sai",
+      "email": "test@email.com",
+      "id": 17
     }
   ]
 }
